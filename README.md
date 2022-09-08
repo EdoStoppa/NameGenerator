@@ -7,7 +7,7 @@
     <img src="https://github.com/EdoStoppa/EdoStoppa/blob/main/imgs/NameGenerator/letter_freq.png?raw=true" alt="Frequency of First Letters" width="600" height="350">
   <div />
   <div align="left"><div />
-  This, even if may seems a major problem, doesn't break the generation for the less frequent letters. Obviously, the less frequent first letters generate stranger name    than the more frequent, but they are still acceptable.
+  This, even if may seems a major problem, doesn't break the generation for the less frequent letters. Obviously, the less frequent first letters generate stranger names than the more frequent ones, but they are still acceptable.
   
 ## Model
   The model is composed by 2 LSTM layers, and two fully connected layers. In particular, for the LSTM layer in PyTorch we use these parameters:
